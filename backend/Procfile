@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT watscore_3373.wsgi:application

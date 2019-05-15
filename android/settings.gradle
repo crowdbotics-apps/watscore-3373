@@ -1,0 +1,3 @@
+rootProject.name = 'watscore_3373'
+
+include ':app'
